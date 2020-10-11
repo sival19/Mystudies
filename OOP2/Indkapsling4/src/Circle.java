@@ -5,6 +5,8 @@ class Circle {
     private double d;
 
     //make getters
+
+
     public double getX() {
         return x;
     }
