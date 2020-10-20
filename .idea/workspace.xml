@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="023bfa7e-9e56-42af-bbf7-2b73255a396a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kunder/out/production/kunder/com/company/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/kunder/out/production/kunder/com/company/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kunder/out/production/kunder/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/kunder/out/production/kunder/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kunder/src/com/company/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kunder/src/com/company/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kunder/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/kunder/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="023bfa7e-9e56-42af-bbf7-2b73255a396a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +39,10 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OOP2" />
   </component>
   <component name="RunManager" selected="Application.Car">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,21 +99,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1601291715199">
+    <state x="748" y="276" key="FileChooserDialogImpl" timestamp="1602798508650">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1601291715199" />
-    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1601291715199">
+    <state x="748" y="276" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1602798508650" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom" timestamp="1602798509723">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1601291715199" />
-    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1601291715199">
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1602798509723" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center" timestamp="1602798509722">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1601291715199" />
-    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1601291715199">
+    <state width="1354" height="260" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1602798509722" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left" timestamp="1602798509722">
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
-    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1601291715199" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1602798509722" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right" timestamp="1602798509723">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1602798509723" />
   </component>
 </project>
