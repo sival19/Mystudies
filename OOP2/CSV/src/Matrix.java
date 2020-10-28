@@ -34,7 +34,7 @@ public class Matrix {
 
     public static void main(String[] args) {
 
-        
+
         Scanner reader;
         try {
             reader = new Scanner(newCSV);
@@ -44,7 +44,7 @@ public class Matrix {
         }
         catch (FileNotFoundException ex) {
             System.out.println("File does not exist");
-        }
+        }2
     }
 
 }

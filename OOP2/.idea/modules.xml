@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSV/CSV.iml" filepath="$PROJECT_DIR$/CSV/CSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSV2/CSV2.iml" filepath="$PROJECT_DIR$/CSV2/CSV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Indkapsling/Indkapsling.iml" filepath="$PROJECT_DIR$/Indkapsling/Indkapsling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Indkapsling/Indkapsling2.iml" filepath="$PROJECT_DIR$/Indkapsling/Indkapsling2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Indkapsling3/Indkapsling3.iml" filepath="$PROJECT_DIR$/Indkapsling3/Indkapsling3.iml" />
