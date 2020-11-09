@@ -1,4 +1,7 @@
-abstract class Item implements Expirable {
+import java.util.ArrayList;
+import java.util.Date;
+
+abstract class Item implements Expirable, Comparable<Item> {
     private final String name;
     private final double price;
 
@@ -18,6 +21,11 @@ abstract class Item implements Expirable {
     public String toString (){
         return "FoodItem name=' " + getName()+
                 "' price='" +getPrice();
+    }
+
+    @Override
+    public int compareTo(Item item) {
+        return 0;
     }
 
     @Override

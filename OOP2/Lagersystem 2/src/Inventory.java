@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Date;
 
-class Inventory {
+class  Inventory {
     private ArrayList<Item> items;
     Inventory (ArrayList<Item> items) {
         this.items = items;
@@ -37,16 +37,19 @@ class Inventory {
         System.out.println("");
     }
     public void removeExpiredFoods () {
+        ArrayList<Item> copy = new ArrayList<Item>();
         for (int i=0 ; i<items.size() ; i++) {
             Item item = items.get(i);
             try {
                 boolean expired = item.isExpired();
-                if (expired) {
-                    items.remove(i);
+                if (!expired) {
+                    copy.add(item);
                 }
             } catch (UnsupportedOperationException e) {
+                copy.add(item);
             }
         }
+        items = copy;
     }
     public static void main (String args[]) {
         Inventory inventory = new Inventory();
@@ -67,3 +70,4 @@ class Inventory {
         printStatus(inventory);
     }
 }
+
