@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T09:14:48.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="rYPkF2jgnxJRLq1OyrFj" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T09:45:02.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KP-aSXBxD17j0Wx8NTah" version="14.3.0" type="github">
   <diagram id="3bRNtzHHR0oI2AZt5-tB" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           <mxGeometry x="40" y="1010" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Prototypen til forbrugersystemet skal forberedes til et af TV 2s egne forbrugersystemer, for eksempel TV 2 Play.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="455" width="550" height="50" as="geometry" />
+          <mxGeometry x="30" y="1695" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Notifikationer når der sker noget nyt i systemet&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="770" y="315" width="360" height="30" as="geometry" />
+          <mxGeometry x="120" y="1555" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Det skal være muligt at se, hvilken rolle en given person har haft i en produktion, da man kan have forskellige roller på produktioner.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#03FF2D;" parent="1" vertex="1">
           <mxGeometry x="40" y="414" width="550" height="50" as="geometry" />
@@ -44,34 +44,34 @@
           <mxGeometry x="40" y="640" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;The Credits Management System should publish a service for other systems to consume.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="604" width="550" height="50" as="geometry" />
+          <mxGeometry x="30" y="1844" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;The system should comply with the crediting rules in the Appendix. Systemet skal overholde krediteringsreglerne i Bilaget&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#2119FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="1160" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;It should be possible to link/merge persons that refer to the same person in the real world.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="245" width="550" height="50" as="geometry" />
+          <mxGeometry x="30" y="1485" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;It should be possible for TV 2 to export a specific amount of data in various formats, such as XML and CSV.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="90" width="550" height="50" as="geometry" />
+          <mxGeometry x="30" y="1330" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-27" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;It should also be possible to search the data directly so that it’s possible to find persons, programs, series and credits in a simple and meaningful way&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#03FF2D;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;There should be a clear (easy to use) reference from the TV program to the place in the Credits Management System where users can see the associated credits for the corresponding program.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="524" width="550" height="60" as="geometry" />
+          <mxGeometry x="30" y="1764" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-29" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Some kind of access control should be implemented for the protected parts of the system (entering/editing/deleting data etc.) &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#2119FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Udforske mulighederne i at integrere systemet med andre interne/eksterne systemer and third party systems.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="375" width="550" height="50" as="geometry" />
+          <mxGeometry x="30" y="1615" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Der skal være en offentlig del af systemet, hvor man kan se credits for en produktion uden at logge ind&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#2119FF;" parent="1" vertex="1">
           <mxGeometry x="40" y="1081" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Økonomiafdelingen skal bruge information angående credits, så det skal være muligt at hente informationer som kan bruges i økonomiske rapporter.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="155" width="550" height="60" as="geometry" />
+          <mxGeometry x="30" y="1395" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SiGN67wjbrqVCLLftexb-2" value="vigtige" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#03FF2D;" vertex="1" parent="1">
           <mxGeometry x="220" y="10" width="120" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="225" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SiGN67wjbrqVCLLftexb-4" value="Quality of Life" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFF00;" vertex="1" parent="1">
-          <mxGeometry x="895" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
