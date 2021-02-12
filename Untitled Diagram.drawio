@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-12T09:45:02.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KP-aSXBxD17j0Wx8NTah" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-12T10:02:46.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="j3zYsGyla70_bB9Xs-An" version="14.3.1" type="github">
   <diagram id="3bRNtzHHR0oI2AZt5-tB" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,13 +73,13 @@
         <mxCell id="KVrSt3CqkJR9HXi9c_8b-32" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: arial; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Økonomiafdelingen skal bruge information angående credits, så det skal være muligt at hente informationer som kan bruges i økonomiske rapporter.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
           <mxGeometry x="30" y="1395" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SiGN67wjbrqVCLLftexb-2" value="vigtige" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#03FF2D;" vertex="1" parent="1">
+        <mxCell id="SiGN67wjbrqVCLLftexb-2" value="vigtige" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#03FF2D;" parent="1" vertex="1">
           <mxGeometry x="220" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SiGN67wjbrqVCLLftexb-3" value="ønsket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2119FF;" vertex="1" parent="1">
+        <mxCell id="SiGN67wjbrqVCLLftexb-3" value="ønsket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2119FF;" parent="1" vertex="1">
           <mxGeometry x="225" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SiGN67wjbrqVCLLftexb-4" value="Quality of Life" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFF00;" vertex="1" parent="1">
+        <mxCell id="SiGN67wjbrqVCLLftexb-4" value="Quality of Life" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFF00;" parent="1" vertex="1">
           <mxGeometry x="245" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
